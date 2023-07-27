@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>637618160288-d3qe5jo7n5ki8r2t6hqvnmndvegk7819.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.637618160288-d3qe5jo7n5ki8r2t6hqvnmndvegk7819</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAYaEpMdd7xy37dKTxbL47Cg8_edfa-n7A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>637618160288</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.agble</string>
+	<key>PROJECT_ID</key>
+	<string>agble-36436</string>
+	<key>STORAGE_BUCKET</key>
+	<string>agble-36436.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:637618160288:ios:2365155120b8b568f4ffc5</string>
+</dict>
+</plist>
