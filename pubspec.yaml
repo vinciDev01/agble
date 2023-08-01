@@ -1,5 +1,6 @@
 name: agble
 description: A new Flutter project.
+
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
@@ -40,10 +41,14 @@ dependencies:
   firebase_core: ^2.15.0
   firebase_auth: ^4.7.0
   video_player : ^2.7.0
+  fl_chart: ^0.63.0
+  provider: ^6.0.5
+  google_fonts: ^5.1.0
   #curved_labeled_navigation_bar: ^2.0.2
   curved_navigation_bar: ^1.0.3
   flutter_animate: ^4.2.0
   flutter_animated_button: ^2.0.3
+  firebase_database: ^10.2.4
 
 
 
